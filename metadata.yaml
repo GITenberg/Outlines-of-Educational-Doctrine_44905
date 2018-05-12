@@ -33,6 +33,8 @@ creator:
     gutenberg_agent_id: '42978'
     url: http://www.gutenberg.org/2009/agents/42978
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44905#Outlines-of-Educational-Doctrine
 gutenberg_issued: '2014-02-14'
 gutenberg_type: Text
 identifiers:
