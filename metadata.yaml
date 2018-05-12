@@ -1,0 +1,48 @@
+_repo: Outlines-of-Educational-Doctrine_44905
+_version: 0.1.0
+alternative_title: Umriss pädagogischer Vorlesungen. English
+contributor:
+  annotator:
+    agent_name: De Garmo, Charles
+    aliases:
+    - Garmo, Charles De
+    - DeGarmo, Charles
+    birthdate: 1849
+    deathdate: 1934
+    gutenberg_agent_id: '42979'
+    url: http://www.gutenberg.org/2009/agents/42979
+  translator:
+    agent_name: Lange, Alexis Frederick
+    alias: Lange, Alexis F.
+    birthdate: 1862
+    deathdate: 1924
+    gutenberg_agent_id: '42980'
+    url: http://www.gutenberg.org/2009/agents/42980
+covers:
+- cover_type: archival
+  image_path: 44905-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Herbart, Johann Friedrich
+    aliases:
+    - Herbart, Giovanni Federico
+    - Herbart, J. F. (Johann Friedrich)
+    - Herbart, John Frederick
+    birthdate: 1776
+    deathdate: 1841
+    gutenberg_agent_id: '42978'
+    url: http://www.gutenberg.org/2009/agents/42978
+description: ''
+gutenberg_issued: '2014-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44905'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LB'
+- !lcsh 'Education -- Philosophy'
+title: Outlines of Educational Doctrine
+url: http://www.gutenberg.org/ebooks/44905
